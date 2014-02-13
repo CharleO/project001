@@ -1,0 +1,7 @@
+$	git init project001
+$	cd project001
+
+	create file1.txt in SlickEdit.
+
+$	git add file1.txt
+$	git commit -m"My first commit"
